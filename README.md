@@ -5,7 +5,7 @@
 ### Creates a new youtube iframe embed on click for a full screen take over
 
 ***
-### [→ JS Fiddle ←](https://jsfiddle.net/pvm44na9/)
+### [→ JS Fiddle ←](http://jsfiddle.net/pvm44na9/3/)
 ***
 
 Installation
