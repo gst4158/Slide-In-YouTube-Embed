@@ -2,7 +2,7 @@
 	//-------------------------------//
 	$('.close').click(function() {
 		$('#videowrapper').removeClass('activate');
-		$('.fp-close').addClass('scaleIn');
+		$('.close').addClass('scaleIn');
 
 		// delay removal of iframe so it's more smooth
 		setTimeout(function() {
